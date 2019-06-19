@@ -1,8 +1,8 @@
-# sandbox-php7
+# sandbox-sqlserver2017
 
 ## About
 
-This repository holds the configuration and instructions for hosting a php7 development sandbox.
+This repository holds the configuration and instructions for hosting a SQL Server 2017 development sandbox.
 
 Currently running SQL Server 2017 Express on CentOS 7.6
 
