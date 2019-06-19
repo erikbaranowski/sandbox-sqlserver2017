@@ -22,9 +22,9 @@ Currently running SQL Server 2017 Express on CentOS 7.6
 
 ## Development/Debug
 
-1. install [todo](https://www.todo.org/)
+1. install [DBeaver](https://dbeaver.io/)
 2. connect with
 	- *host:* 192.168.56.4
-	- *port:* ****
-	- *username:* ****
-	- *password:* ****
+	- *port:* 1433
+	- *username:* SA
+	- *password:* Password1

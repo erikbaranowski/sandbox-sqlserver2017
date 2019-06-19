@@ -14,8 +14,8 @@ cat << EOF
 ***
 *** DB
 *** host: 192.168.56.4
-*** port: *****
-*** username: *****
-*** password: *****
+*** port: 1433
+*** username: SA
+*** password: Password1
 ********************************************
 EOF
